@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the Desktop Java Framework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>
+        <property name="APP_TITLE"	    value="课程网站编辑器"></property>
+	<property name="APP_LOGO"	    value="TAManagerLogo.png"></property>
+	<property name="APP_PATH_CSS"	    value="style/"></property>
+	<property name="APP_CSS"	    value="tam_style.css"></property>
+        
+        <!-- PROGRAM ICON FILES -->
+        <property name="NEW_ICON"	    value="New.png"></property>
+        <property name="LOAD_ICON"	    value="Load.png"></property>
+        <property name="SAVE_ICON"	    value="Save.png"></property>
+        <property name="SAVE_AS_ICON"       value="SaveAs.png"></property>
+        <property name="EXIT_ICON"          value="Exit.png"></property> 
+        <property name="EXPORT_ICON"        value="Export.png"></property>
+        <property name="UNDO_ICON"         value="Undo.png"></property>
+        <property name="REDO_ICON"          value="Redo.png"></property>
+        <property name="ABOUT_ICON"         value="About.png"></property>
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="NEW_TOOLTIP"		value="新建一个新的课程网站"></property>
+        <property name="LOAD_TOOLTIP"		value="加载现有的课程网站"></property>
+        <property name="SAVE_TOOLTIP"		value="保存"></property>
+        <property name="SAVE_AS_TOOLTIP"        value="另存为"></property>
+        <property name="EXIT_TOOLTIP"		value="离开编辑器"></property>
+        <property name="EXPORT_TOOLTIP"         value="文件导出(html格式)"></property>
+        <property name="UNDO_TOOLTIP"           value="撤销"></property>
+        <property name="REDO_TOOLTIP"           value="重做"></property>
+        <property name="ABOUT_TOOLTIP"          value="关于"></property>
+        
+        
+        <!-- Label and Button -->
+        <property name="COURSE_INFO"            value="课程信息"></property>
+        <property name="SUBJECT"                value="科目: "></property>
+        <property name="NUMBER"                 value="课号: "></property>
+        <property name="SEMESTER"               value="学期: "></property>
+        <property name="YEAR"                   value="年份:"></property>
+        <property name="TITLE"                  value="标题: "></property>
+        <property name="INSTRUCTOR_NAME"        value="教授姓名: "></property>
+        <property name="INSTRUCTOR_HOME"        value="教授主页: "></property>
+        <property name="EXPORT_DIR"             value="导出地址: "></property>
+        <property name="EXPORT_MSG"             value="请选择你要导出的地址"></property>
+        <property name="SITE_TEMPLATE"          value="网站模板"></property>
+        <property name="SITE_MSG1"              value="所选导出文件必须包含所有的模板文件, 包括HTML文件."></property>
+        <property name="SITE_MSG2"              value="选择模板地址"></property>
+        <property name="SITE_PAGE"              value="网站页面: "></property>
+        <property name="NAV_BAR"                value="文件标题"></property>
+        <property name="FILE_NAME"              value="文件名"></property>
+        <property name="USE"                    value="使用状态"></property>
+        <property name="SCRIPT"                 value="脚本"></property>
+        <property name="PAGE_STYLE"             value="页面风格: "></property>
+        <property name="IMAGE_MSG1"             value="学校标题图片: "></property>
+        <property name="IMAGE_MSG2"             value="左页脚图片: "></property>
+        <property name="IMAGE_MSG3"             value="右页脚图片: "></property>
+        <property name="STYLE_SHEET"            value="样式表(css): "></property>
+        <property name="CSS_MSG"                value="请选择想要加载的css文件"></property>
+        <property name="PAGE_MSG"               value="注意: 新的样式表必须放在work/css里面才能被选择"></property>
+        <property name="RECITATION"            value="练习课: "></property>
+        <property name="SECTIONT"            value="小节"></property>
+        <property name="INSTRUCTORT"            value="授课人"></property>
+        <property name="DAYT"            value="日期/时间"></property>
+        <property name="LOCATIONT"            value="地址"></property>
+        <property name="TAT"            value="助教"></property>
+        <property name="SECTION"            value="小节: "></property>
+        <property name="INSTRUCTOR"            value="授课人: "></property>
+        <property name="DAY"            value="日期/时间"></property>
+        <property name="LOCATION"            value="地址: "></property>
+        <property name="SVTA"            value="管理助教: "></property>
+        <property name="SCHEDULE"            value="计划表"></property>
+        <property name="CALENDAR_BOUN"            value="日历"></property>
+        <property name="START_DATE"            value="开始日期(周一): "></property>
+        <property name="END_DATE"            value="结束日期(周五): "></property>
+        <property name="SCHEDULE_ITEMS"            value="计划表项目"></property>
+        <property name="TYPET"            value="类型"></property>
+        <property name="DATET"            value="日期"></property>
+        <property name="TITLET"            value="标题"></property>
+        <property name="TOPICT"            value="主题"></property>
+        <property name="TYPE"            value="类型: "></property>
+        <property name="DATE"            value="日期: "></property>
+        <property name="TIME"            value="时间: "></property>
+        <property name="TOPIC"            value="主题: "></property>
+        <property name="LINK"            value="链接: "></property>
+        <property name="CRITERIA"            value="要求: "></property>
+        <property name="PROJECT"            value="项目"></property>
+        <property name="TEAM"            value="团队 "></property>
+        <property name="NAMET"            value="团队名字"></property>
+        <property name="COLORT"            value="团队颜色(hex#)"></property>
+        <property name="TEXT_COLORT"            value="字体颜色(hex#)"></property>
+        <property name="LINKT"            value="链接"></property>
+        <property name="TEAM_NAME"            value="团队名字: "></property>
+        <property name="COLOR"            value="团队颜色: "></property>
+        <property name="TEXT_COLOR"            value="字体颜色: "></property>
+        <property name="STUDENT"            value="学生 "></property>
+        <property name="FIRST_NAMET"            value="名"></property>
+        <property name="LAST_NAMET"            value="姓"></property>
+        <property name="TEAMT"            value="所属团队"></property>
+        <property name="ROLET"            value="职位"></property>
+        <property name="FIRST_NAME"            value="名:"></property>
+        <property name="LAST_NAME"            value="姓: "></property>
+        <property name="TEAM_NAME2"            value="所属团队: "></property>
+        <property name="ROLE"            value="职位: "></property>
+        <property name="ADD_EDIT"        value="添加/编辑"></property>
+        <property name="ADD_UPDATE"      value="添加/更新"></property>
+        <property name="CLEAR_B"         value="清除"></property>
+        <property name="CHANGE_B"        value="更改"></property>
+        <property name="TEMPLATE_B"      value="选择模板文件地址"></property>
+        <property name="COURSE_DETAIL"        value="课程信息"></property>
+        <property name="TADATA"        value="助教资料"></property>
+        <property name="RECITATION_DATA"        value="练习课资料"></property>
+        <property name="SCHEDULE_DATA"        value="计划表资料"></property>
+        <property name="PROJECT_DATA"        value="项目资料"></property>
+        <!-- ERROR MESSAGES -->
+        <property name="CLOSE_BUTTON_TEXT"              value="关闭"></property>
+        <property name="YES_TEXT"                            value="是"></property>
+        <property name="NO_TEXT"                            value="否"></property>
+        <property name="CANCEL_TEXT"                            value="取消"></property>
+        <property name="NEW_ERROR_MESSAGE"              value="创建新课程网站时发生了错误."></property>
+        <property name="NEW_ERROR_TITLE"		value="新建错误"></property>
+        <property name="LOAD_ERROR_MESSAGE"             value="加载文件时发生了错误."></property>
+        <property name="LOAD_ERROR_TITLE"		value="加载错误"></property>
+        <property name="SAVE_ERROR_MESSAGE"             value="保存文件时发生了错误."></property>
+        <property name="SAVE_ERROR_TITLE"		value="保存错误"></property>
+        <property name="PROPERTIES_LOAD_ERROR_MESSAGE"	value="xml文件载入错误."></property>	
+        <property name="PROPERTIES_LOAD_ERROR_TITLE"	value="xml载入错误"></property>
+	<property name="ERROR_TIME_FORM"                value="您所选择的结束时间不能比开始时间早"></property>
+        <property name="ERROR_TIME_FORM_TITLE"          value="错误"></property>
+        <property name="TA_EMAIL_INVALID_TITLE"         value="邮箱格式错误"></property>
+        <property name="TA_EMAIL_INVALID_MESSAGE"       value="必须提供一个格式正确的邮箱"></property>
+        <!-- VERIFICATION MESSAGES -->
+	<property name="CONFIRM_MESSAGE_MESSAGE"        value="缩短工作时间表会导致一些助理的资料丢失,确定要这么做吗?"></property>
+        <property name="CONFIRM_MESSAGE_TITLE"         value="确认信息"></property>
+        <property name="NEW_COMPLETED_MESSAGE"		value="新文件已经加载好,可以开始编辑啦~"></property>
+        <property name="NEW_COMPLETED_TITLE"		value="新建完毕"></property>
+        <property name="LOAD_COMPLETED_MESSAGE"		value="所选文件已经加载好,可以开始编辑啦~"></property>
+        <property name="LOAD_COMPLETED_TITLE"		value="加载完毕"></property>
+        <property name="SAVE_COMPLETED_MESSAGE"		value="文件已经被保存好啦~"></property>
+        <property name="SAVE_COMPLETED_TITLE"		value="保存完毕"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="要先保存吗?"></property>
+        <property name="SAVE_UNSAVED_WORK_TITLE"	value="保存?"></property>
+	<property name="EXPORT_WORK_TITLE"              value="导出"></property>
+        <property name="NEW_CREATED_MESSAGE"		value="正在编辑的文件没有被保存"></property>
+        <property name="WORK_LOADED_MESSAGE"		value="文件加载完毕"></property>
+        <property name="WORK_SAVED_MESSAGE"		value="文件保存完毕"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="要先保存正在编辑的文件吗?"></property>
+	<property name="SAVE_WORK_TITLE"		value="保存文件"></property>
+	<property name="LOAD_WORK_TITLE"		value="选择一个要加载的文件"></property>
+	<property name="WORK_FILE_EXT"			value="json"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="助教工作时间表格"></property>
+        <property name="START_OVER_END_TITLE"           value="所选时间段不合格"></property>
+        <property name="START_OVER_END_MESSAGE"         value="所选的开始时间不能晚于结束时间, 所选的结束时间不能早于开始时间"></property>
+        <property name="START_DAY_OVER_END_TITLE"       value="开始时间超过结束时间"></property>
+        <property name="START_DAY_OVER_END_MSG"         value="不能选一个开始时间早于结束时间或者一个结束时间早于开始时间"></property>
+        <property name="SAME_SCHEDULE_TITLE"             value="项目已存在"></property>
+        <property name="SAME_SCHEDULE_TEXT"              value="必须提供一个新的的项目"></property>
+
+        <!-- WORKSPACE CONTROLS STUFF --> 
+        <property name="CLEAR_BUTTON_TEXT"               value="清除"></property>       
+        <property name="TAS_HEADER_TEXT"                value="助教"></property>
+        <property name="NAME_COLUMN_TEXT"               value="姓名"></property>
+        <property name="EMAIL_COLUMN_TEXT"              value="邮件"></property>
+        <property name="NAME_PROMPT_TEXT"               value="姓名"></property>
+        <property name="EMAIL_PROMPT_TEXT"              value="邮件"></property>
+        <property name="ADD_BUTTON_TEXT"                value="添加助教"></property>
+        <property name="OFFICE_HOURS_SUBHEADER"         value="工作时间表格"></property>
+        <property name="UPDATE_BUTTON_TEXT"             value="更新助教"></property>
+        <property name="UNDERGRAD_COLUMN_TEXT"          value="本科"></property>
+        
+        <!-- WORKSPACE ERROR MESSAGES -->
+        <property name="WRONG_TA_EMAIL_FORM"           value="助教的邮箱地址不正确"></property>
+	<property name="WRONG_TA_EMAIL_MESSAGE"		value="助教邮箱地址的格式必须正确"></property>
+        <property name="MISSING_TA_NAME_TITLE"          value="缺少助教的名字"></property>
+        <property name="MISSING_TA_NAME_MESSAGE"        value="必须提供一个助教的名字"></property>
+        <property name="MISSING_TA_EMAIL_TITLE"         value="缺少助教的邮箱"></property>
+        <property name="MISSING_TA_EMAIL_MESSAGE"       value="必须提供一个助教的邮箱地址"></property>
+        <property name="TA_NAME_AND_EMAIL_NOT_UNIQUE_TITLE"     value="助教的姓名和邮箱必须是唯一的"></property>
+        <property name="TA_NAME_AND_EMAIL_NOT_UNIQUE_MESSAGE"   value="提供的助教名字和邮箱必须是唯一的"></property>
+        <property name="EXPORT_COMPLETE_MESSAGE"                value="导出完成!"></property>
+        <property name="EXPORT_COMPLETE_MESSAGE_TITLE"          value="完成提示"></property>
+        <property name="SAME_RECITATION_TITLE"          value="练习课已存在"></property>
+        <property name="SAME_RECITATION_TEXT"           value="该练习课已存在,请提供一个新的练习课"></property>
+        <property name="SAME_TEAM_TITLE"                value="小组已存在"></property>
+        <property name="SAME_TEAM_TEXT"                 value="该小组已存在,必须提供一个新的小组"></property>
+        <property name="NOT_MONDAY_OR_FRIDAY_TITLE"     value="日期选择错误"></property>
+        <property name="NOT_MONDAY_OR_FRIDAY_TEXT"     value="所选的开始时间必须是周一, 结束时间必须是周五"></property>
+        <property name="REMOVE_CONFIRM_TITLE"           value="删除确认信息"></property>
+        <property name="REMOVE_RECITATION_MSG"        value="删掉练习课之后会丢失部分数据, 确定要继续吗?"></property>
+        <property name="REMOVE_STUDENT_MSG"             value="删掉学生之后部分数据会丢失, 确定要继续吗?"></property>
+        <property name="REMOVE_SCHEDULE_MSG"            value="删掉安排后部分数据会丢失, 确定要继续吗?"></property>
+        <property name="REMOVE_TEAM_MSG"                value="删掉小组后部分学生的数据会丢失, 确定要继续吗?"></property>
+        <property name="SCHEDULE_INVALID_TITLE"         value="不合格的时间"></property>
+        <property name="SCHEDULE_INVALID_MSG"           value="所选的时间必须在开始日期和结束日期之间"></property>
+        <property name="SAME_STUDENT_TITLE"             value="该学生已存在"></property>
+        <property name="SAME_STUDENT_TEXT"              value="改学生已存在,必须提供一个新的唯一的学生"></property>
+        <property name="ABOUT_TITLE"                    value="关于"></property>
+        <property name="ABOUT_TEXT"                     value="课程网站编辑器是一个自动建立和更新网站的工具. 通过使用这个应用, 能让网站看上去更好看"></property>
+        <property name="START_TIME"                          value="    开始:    "></property>
+        <property name="END_TIME"                            value="    结束:    "></property>
+        
+        
+    </property_list>
+    <property_options_list>
+        <property_options name="OFFICE_HOURS_TABLE_HEADERS">
+            <option>开始时间</option>
+            <option>结束时间</option>
+        </property_options>
+        <property_options name="DAYS_OF_WEEK">
+            <option>星期一</option>
+            <option>星期二</option>
+            <option>星期三</option>
+            <option>星期四</option>
+            <option>星期五</option>
+        </property_options>
+    </property_options_list>
+</properties>

@@ -1,0 +1,14 @@
+
+{
+    "course_subject":"CSE",
+    "course_number":"133",
+    "course_semester":"Spring",
+    "course_year":"2015",
+    "course_title":"",
+    "instructor_name":"",
+    "instructor_home":"",
+    "school_image":"/drink.png",
+    "left_image":"/pizza.png",
+    "right_image":"/cake.png",
+    "css":"course_homepage_layout.css"
+}

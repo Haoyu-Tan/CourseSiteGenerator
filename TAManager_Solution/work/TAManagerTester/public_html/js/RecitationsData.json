@@ -1,0 +1,33 @@
+
+{
+    "recitations":[
+        {
+            "section":"01",
+            "day_time":"1/1/2017 12:00pm",
+            "location":"New Computer Science 2203",
+            "ta_1":"a",
+            "ta_2":"b"
+        },
+        {
+            "section":"02",
+            "day_time":"1/1/2017 3:00pm",
+            "location":"Javit",
+            "ta_1":"c",
+            "ta_2":"d"
+        },
+        {
+            "section":"03",
+            "day_time":"1/1/2017 8:00pm",
+            "location":"Frey Hall",
+            "ta_1":"e",
+            "ta_2":"f"
+        },
+        {
+            "section":"04",
+            "day_time":"1/1/2017 4:00pm",
+            "location":"SAC BALL ROOM A",
+            "ta_1":"g",
+            "ta_2":"h"
+        }
+    ]
+}

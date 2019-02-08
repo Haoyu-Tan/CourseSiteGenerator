@@ -1,0 +1,22 @@
+{
+    "teams": [
+        { "name": "Aqua",   "red": "0", "green": "255", "blue": "255", "text_color": "black" },
+        { "name": "Aquamarine",  "red": "127", "green": "255", "blue": "212", "text_color": "black" },
+        { "name": "Battery Charge Blue",  "red": "103", "green": "200", "blue": "255", "text_color": "black" }
+    ],
+    
+    "students": [
+	{ "lastName": "suri",          "firstName": "T",       "team": "Aqua",     "role": "Lead Programmer" },
+	{ "lastName": "sunny",      "firstName": "L",        "team": "Aqua",     "role": "Lead Designer" },
+	{ "lastName": "",         "firstName": "",        "team": "Aqua",     "role": "Project Manager" },
+	{ "lastName": "",        "firstName": "",       "team": "Aqua",     "role": "Data Designer" },
+	{ "lastName": "",     "firstName": "",      "team": "Aquamarine",     "role": "Lead Programmer" },
+	{ "lastName": "",        "firstName": "",      "team": "Aquamarine",     "role": "Project Manager" },
+	{ "lastName": "sophia",        "firstName": "S",     "team": "Aquamarine",     "role": "Data Designer" },
+	{ "lastName": "",           "firstName": "",     "team": "Aquamarine",     "role": "Lead Designer" },
+        { "lastName": "",             "firstName": "",       "team": "Battery Charge Blue",     "role": "Lead Programmer" },
+	{ "lastName": "",       "firstName": "",        "team": "Battery Charge Blue",     "role": "Project Manager" },
+	{ "lastName": "",           "firstName": "",        "team": "Battery Charge Blue",     "role": "Data Designer" },
+	{ "lastName": "eden",         "firstName": "Z",       "team": "Battery Charge Blue",     "role": "Lead Designer" }
+    ]
+}

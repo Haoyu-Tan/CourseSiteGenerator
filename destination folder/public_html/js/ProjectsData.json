@@ -1,0 +1,26 @@
+
+{
+    "work":[
+        {
+            "semester":"Spring 2015",
+            "projects":[
+                {
+                    "name":"green",
+                    "students":[
+                    ],
+                    "link":"www.green.com"
+                },
+                {
+                    "name":"gray",
+                    "students":[
+                        "Gray Grace",
+                        "Jane Rose",
+                        "Marry Lan",
+                        "Guinea Pig"
+                    ],
+                    "link":"www.grayyyy.com"
+                }
+            ]
+        }
+    ]
+}

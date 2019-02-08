@@ -1,0 +1,49 @@
+
+{
+    "teams":[
+        {
+            "name":"green",
+            "red":"0",
+            "green":"51",
+            "blue":"51",
+            "text_red":"230",
+            "text_green":"128",
+            "text_blue":"77"
+        },
+        {
+            "name":"gray",
+            "red":"179",
+            "green":"179",
+            "blue":"179",
+            "text_red":"204",
+            "text_green":"153",
+            "text_blue":"51"
+        }
+    ],
+    "students":[
+        {
+            "lastName":"Grace",
+            "firstName":"Gray",
+            "team":"gray",
+            "role":"Lead Programmer"
+        },
+        {
+            "lastName":"Rose",
+            "firstName":"Jane",
+            "team":"gray",
+            "role":"Lead Designer"
+        },
+        {
+            "lastName":"Lan",
+            "firstName":"Marry",
+            "team":"gray",
+            "role":"Data Designer"
+        },
+        {
+            "lastName":"Pig",
+            "firstName":"Guinea",
+            "team":"gray",
+            "role":"Project Manager"
+        }
+    ]
+}

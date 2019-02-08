@@ -1,0 +1,40 @@
+
+{
+    "work":[
+        {
+            "semester":"Spring 2017",
+            "projects":[
+                {
+                    "name":"Aqua",
+                    "students":[
+                        "suri T",
+                        "sunny L",
+                        " ",
+                        " "
+                    ],
+                    "link":"None"
+                },
+                {
+                    "name":"Aquamarine",
+                    "students":[
+                        "sophia S",
+                        " ",
+                        " ",
+                        " "
+                    ],
+                    "link":"None"
+                },
+                {
+                    "name":"Battery Charge Blue",
+                    "students":[
+                        "eden Z",
+                        " ",
+                        " ",
+                        " "
+                    ],
+                    "link":"None"
+                }
+            ]
+        }
+    ]
+}

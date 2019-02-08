@@ -1,0 +1,32 @@
+
+{
+    "work":[
+        {
+            "semester":"Spring 2017",
+            "projects":[
+                {
+                    "name":"teamA",
+                    "students":[
+                        "suri T",
+                        "sunny L"
+                    ],
+                    "link":"None"
+                },
+                {
+                    "name":"teamB",
+                    "students":[
+                        "sophia S"
+                    ],
+                    "link":"None"
+                },
+                {
+                    "name":"teamC",
+                    "students":[
+                        "eden Z"
+                    ],
+                    "link":"None"
+                }
+            ]
+        }
+    ]
+}

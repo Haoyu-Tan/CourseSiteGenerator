@@ -1,0 +1,41 @@
+
+{
+    "startingMondayMonth":"1",
+    "startingMondayDay":"1",
+    "endingFridayMonth":"10",
+    "endingFridayDay":"10",
+    "holidays":[
+    ],
+    "lectures":[
+        {
+            "month":"1",
+            "day":"2",
+            "title":"Lecture2",
+            "topic":"Lecture",
+            "link":"NO",
+            "criteria":"NONE"
+        }
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+        {
+            "month":"1",
+            "day":"1",
+            "title":"HW1",
+            "topic":"HW",
+            "link":"NO",
+            "criteria":"NONE"
+        },
+        {
+            "month":"1",
+            "day":"4",
+            "title":"HW2",
+            "topic":"HW",
+            "link":"NO",
+            "criteria":"NONE"
+        }
+    ]
+}

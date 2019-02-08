@@ -1,0 +1,25 @@
+
+{
+    "startingMondayMonth":"02",
+    "startingMondayDay":"04",
+    "endingFridayMonth":"02",
+    "endingFridayDay":"15",
+    "holidays":[
+        {
+            "month":"02",
+            "day":"06",
+            "title":"Snow Day",
+            "topic":"Snooowy",
+            "link":"www.snooowy.com",
+            "criteria":"None"
+        }
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}
